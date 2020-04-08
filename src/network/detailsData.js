@@ -4,7 +4,7 @@ import {
 
 export function detailsData(iid) {
     return request({
-        url: '/api/h3/detail?',
+        url: '/api/h8/detail?',
         params: {
             iid
         }

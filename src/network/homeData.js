@@ -11,7 +11,7 @@ export function gethomeBanner() {
 
 export function getHomeData(type, page) {
     return request({
-        url: '/api/h3/home/data?',
+        url: '/api/h8/home/data?',
         params: {
             type,
             page

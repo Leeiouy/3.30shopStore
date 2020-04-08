@@ -5,7 +5,7 @@ import {
 export function sortData() {
 
     return request({
-        url: '/api/h3/category'
+        url: '/api/h8/category'
     })
 
 }

@@ -5,7 +5,7 @@
       <router-view></router-view>
     </keep-alive>
 
-    <div class="text">
+    <div class="text" style="display:none">
       <span>赣ICP备20003988号</span>
       <span>
         <a href="http://www.beian.miit.gov.cn/publish/query/indexFirst.action">工业和信息化部备案管理系统网站</a>
